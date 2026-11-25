@@ -73,3 +73,7 @@ Weekly Shortage Frequency: The system assumes a weekly sync cycle (Once a week) 
 ## Ethics Review
 For the full ethics evaluation, check out the document here:
 [Ethics Review Document](./ethics-review.md)
+
+## 🔄 n8n Workflow
+The complete automation workflow file is available here:
+📄 [Download n8n Workflow (JSON)](./Kairon_workflow.json)
