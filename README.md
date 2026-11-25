@@ -70,4 +70,6 @@ Mock vs. Real Inventory Sync: The local stock check assumes the Simulating winfa
 Weekly Shortage Frequency: The system assumes a weekly sync cycle (Once a week) is sufficient for AIFA national shortage tracking.
 
 
-ETHICS
+## Ethics Review
+For the full ethics evaluation, check out the document here:
+[Ethics Review Document](./ethics-review.md)
